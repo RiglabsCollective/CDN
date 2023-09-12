@@ -59351,12 +59351,20 @@ endobj
 
 1076 0 obj
   << /Annots [ << /A << /S /URI
-                        /URI (mailto\072bd4\100riglabs\056co\056in)
+                        /URI (mailto\072bd4\100riglabs\056co)
                         /Type /Action
                      >>
                   /Rect [ 743.415283 56.000000 818.003540 68.000000 ]
                   /Subtype /Link
-               >> ]
+               >>
+               << /A << /S /URI
+                        /URI (https\072\057\057bd4\056riglabs\056co)
+                        /Type /Action
+                     >>
+                  /Rect [ 745.913330 26.000000 815.003540 38.000000 ]
+                  /Subtype /Link
+               >>
+             ]
      /Type /Page
      /MediaBox [ 0.000000 0.000000 842.000000 595.000000 ]
      /Resources 1073 0 R
@@ -60457,13 +60465,13 @@ xref
 0001448344 00000 n
 0003401313 00000 n
 0003401342 00000 n
-0003401798 00000 n
-0003401878 00000 n
+0003402089 00000 n
+0003402169 00000 n
 trailer
 << /ID [ (some) (id) ]
    /Root 1078 0 R
    /Size 1079
 >>
 startxref
-3401943
+3402234
 %%EOF
